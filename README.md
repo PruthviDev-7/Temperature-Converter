@@ -77,18 +77,17 @@ A beautiful, interactive web application for converting temperatures between **C
 ## � Screenshots
 
 ### Desktop View
-![Temperature Converter Desktop](<img width="672" height="445" alt="{1B382646-0897-4871-B2BA-50C1833C840B}" src="https://github.com/user-attachments/assets/546bae1c-814b-41ad-bff3-67b106a5ccad" />
-)
+<img width="672" height="445" alt="{1B382646-0897-4871-B2BA-50C1833C840B}" src="https://github.com/user-attachments/assets/546bae1c-814b-41ad-bff3-67b106a5ccad" />
+
 *Beautiful gradient UI with interactive temperature conversion form*
 
 ### Mobile View
-![Temperature Converter Mobile](<img width="86" height="390" alt="{4C1C9B46-B78C-4727-B921-E406A9951767}" src="https://github.com/user-attachments/assets/44849f6f-805e-48d5-9ae6-7cc25da69d38" />
-)
+<img width="86" height="390" alt="{4C1C9B46-B78C-4727-B921-E406A9951767}" src="https://github.com/user-attachments/assets/44849f6f-805e-48d5-9ae6-7cc25da69d38" />
 *Responsive design optimized for mobile devices*
 
 ### Conversion Result
-![Conversion Result](<img width="386" height="326" alt="{3087F0C8-D7C2-4EE0-B05D-2B8763A77E61}" src="https://github.com/user-attachments/assets/c7ecdea4-880a-4125-b8c5-49f3ff532d29" />
-)
+<img width="386" height="326" alt="{3087F0C8-D7C2-4EE0-B05D-2B8763A77E61}" src="https://github.com/user-attachments/assets/c7ecdea4-880a-4125-b8c5-49f3ff532d29" />
+
 *Clear and formatted temperature conversion results*
 
 ---
